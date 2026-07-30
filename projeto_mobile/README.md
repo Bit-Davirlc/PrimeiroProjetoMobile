@@ -1,3 +1,3 @@
 # projeto_mobile
 
-A new Flutter project.
+Primeira Atividade de Mobile do Curso Tecnico de Desenvolvimento de Sistemas
